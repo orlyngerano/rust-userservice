@@ -6,4 +6,4 @@ CREATE TABLE users (
   lastname VARCHAR(255)
 );
 
-insert into users(username,password,firstname,lastname) values('myusername','mypassword','orlyn','gerano');
+insert into users(username,password,firstname,lastname) values('admin','admin','admin','admin');
